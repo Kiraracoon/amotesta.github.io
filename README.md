@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <title>Моя страница</title>
     
-    <!-- Яндекс.Метрика -->
-    <script type="text/javascript">
+ <!-- Яндекс.Метрика -->
+<script type="text/javascript">
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
        m[i].l=1*new Date();
        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
@@ -24,14 +24,8 @@
     <noscript><div><img src="https://mc.yandex.ru/watch/98780924" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Яндекс.Метрика -->
 
-    <!-- Кнопка WhatsApp -->
-    <form action="https://wa.me/996703380946" method="GET">
-        <button type="submit">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/225px-WhatsApp.svg.png" width="40" height="40" alt="Привет">
-        </button>
-    </form>
+   <script>(function(a,m,o,c,r,m){a[m]={id:"418170",hash:"463a893dd080eb0127c21dd5f2bd82bab1b50a0da92bf23906a4ce930b6ed2e7",locale:"ru",inline:false,setMeta:function(p){this.params=(this.params||[]).concat([p])}};a[o]=a[o]||function(){(a[o].q=a[o].q||[]).push(arguments)};var d=a.document,s=d.createElement('script');s.async=true;s.id=m+'_script';s.src='https://gso.amocrm.ru/js/button.js';d.head&&d.head.appendChild(s)}(window,0,'amoSocialButton',0,0,'amo_social_button'));</script>
 
-    <!-- i2CRM кнопка -->
-    <script id="crm-wa-button-script" src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" data-source="ym" data-text="Здравствуйте. Номер заявки {u_code}"></script>
+ <script id="crm-wa-button-script" src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" data-source="ym" data-text="Здравствуйте. Номер заявки {u_code}"></script>
 </body>
 </html>
