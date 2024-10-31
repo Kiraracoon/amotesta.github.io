@@ -6,24 +6,25 @@
     <meta charset="UTF-8">
     <title>Моя страница</title>
     
-    <!-- Яндекс.Метрика -->
-<script type="text/javascript">
+    <!-- Yandex.Metrika counter -->
+ <script type="text/javascript">
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
        m[i].l=1*new Date();
        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-       ym(98780924, "init", {
+
+       ym(98781398, "init", {
             clickmap:true,
             trackLinks:true,
             accurateTrackBounce:true
        });
-</script>
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/98781398" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
 </head>
 
 <body>
-    <!-- Яндекс.Метрика для пользователей без JavaScript -->
-    <noscript><div><img src="https://mc.yandex.ru/watch/98780924" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 
     <!-- Виджет amoCRM -->
  <script>
@@ -49,7 +50,9 @@
             src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" 
             data-source="ym" 
             data-text="Здравствуйте. Номер заявки {u_code}">
-</script>
+ </script>
+
 </body>
 </html>
+
 
