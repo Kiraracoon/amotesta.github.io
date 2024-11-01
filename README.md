@@ -20,7 +20,7 @@
             accurateTrackBounce:true
        });
     </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/98781398" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="https://mc.yandex.ru/watch/98781398" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
 </head>
 
@@ -47,10 +47,11 @@
 
     <!-- Кнопка i2CRM -->
  <script id="crm-wa-button-script" 
-            src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" 
-            data-source="ym" 
-            data-text="Здравствуйте. Номер заявки {u_code}">
- </script>
+        src="https://app.i2crm.ru/api_v1/js/crm_wa_button_v1.js" 
+        data-source="ym" 
+        data-text="Здравствуйте. Номер заявки {u_code}" 
+        data-url="https://wa.me/996703380946">
+</script>
 
 </body>
 </html>
