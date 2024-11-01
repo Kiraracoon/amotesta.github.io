@@ -1,10 +1,10 @@
 # amotesta.github.io
 
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <title>Моя страница</title>
+ 
+    
     
 
  <!-- Yandex.Metrika counter -->
